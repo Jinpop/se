@@ -9,6 +9,6 @@
 
 - 과제 0: docs/Requirement.md
 - 과제 1: docs/Expectation.md
-- 과제 2: docs/
+- 과제 2: docs/ProjectManagementPlan.md
 
 - 실습 1: docs/practice/Jira_Todo.png
