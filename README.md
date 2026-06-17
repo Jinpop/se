@@ -12,5 +12,6 @@
 - 과제 2: docs/ProjectManagementPlan.md
 - 과제 3: docs/RequirementDefinition.md
 - 과제 4: docs/RequirementAnalysis.md
+- 과제 5: docs/TestResultReport.md
 
 - 실습 1: docs/practice/Jira_Todo.png
